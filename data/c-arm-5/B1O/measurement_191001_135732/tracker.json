@@ -1,0 +1,19 @@
+{
+    "filter_ac_narrow": 0,
+    "filter_ac_wide": 1,
+    "filter_dc_adaptive": 1.0,
+    "filter_sudden_change": 0,
+    "max_range": 36.0,
+    "measurement_rate": 80.0,
+    "metric": 1,
+    "modelstring": "6DBB4",
+    "partnumber": "600785-4",
+    "power_line_frequency": 50.0,
+    "quality_alpha": 6,
+    "quality_offset": 0,
+    "quality_sensitivity": 1,
+    "quality_slope": 0,
+    "tx_modelstring": "6DBBT",
+    "tx_partnumber": "600222-H",
+    "type": "ATCTracker"
+}

@@ -1,0 +1,9 @@
+{
+    "description": "C3O",
+    "environment": "c-arm_7",
+    "operator": "thinkpad",
+    "samples_per_point": 500,
+    "timestamp": "191011_120330",
+    "type": "phantom",
+    "version": "0.1.1"
+}

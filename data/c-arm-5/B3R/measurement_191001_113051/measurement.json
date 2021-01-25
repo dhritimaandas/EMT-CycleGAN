@@ -1,0 +1,9 @@
+{
+    "description": "B3R",
+    "environment": "c-arm-5",
+    "operator": "thinkpad",
+    "samples_per_point": 500,
+    "timestamp": "191001_113051",
+    "type": "phantom",
+    "version": "0.1.1"
+}

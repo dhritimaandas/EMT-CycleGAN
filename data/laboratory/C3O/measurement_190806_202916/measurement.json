@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "timestamp": "190806_202916",
+    "operator": "sohofman",
+    "type": "phantom",
+    "description": "C3O",
+    "samples_per_point": 500,
+    "environment": "laboratory"
+}

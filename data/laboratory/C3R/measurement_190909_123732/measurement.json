@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "timestamp": "190909_123732",
+    "operator": "hjkrumb",
+    "type": "phantom",
+    "description": "C3R",
+    "samples_per_point": 500,
+    "environment": "laboratory"
+}

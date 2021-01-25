@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "timestamp": "190907_112920",
+    "operator": "sohofman",
+    "type": "phantom",
+    "description": "A3O",
+    "samples_per_point": 500,
+    "environment": "laboratory"
+}

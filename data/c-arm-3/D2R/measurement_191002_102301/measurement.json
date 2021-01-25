@@ -1,0 +1,9 @@
+{
+    "description": "D2R",
+    "environment": "c-arm_3",
+    "operator": "thinkpad",
+    "samples_per_point": 500,
+    "timestamp": "191002_102301",
+    "type": "phantom",
+    "version": "0.1.1"
+}

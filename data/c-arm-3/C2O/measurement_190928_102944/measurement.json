@@ -1,0 +1,9 @@
+{
+    "description": "C2O",
+    "environment": "c-arm-3",
+    "operator": "thinkpad",
+    "samples_per_point": 500,
+    "timestamp": "190928_102944",
+    "type": "phantom",
+    "version": "0.1.0"
+}

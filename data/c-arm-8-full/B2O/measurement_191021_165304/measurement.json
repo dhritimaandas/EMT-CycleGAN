@@ -1,0 +1,9 @@
+{
+    "description": "B2O",
+    "environment": "c-arm-8-full",
+    "operator": "thinkpad",
+    "samples_per_point": 500,
+    "timestamp": "191021_165304",
+    "type": "phantom",
+    "version": "0.1.1"
+}

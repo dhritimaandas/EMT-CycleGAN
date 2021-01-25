@@ -1,0 +1,9 @@
+{
+    "description": "C1O",
+    "environment": "c-arm_8",
+    "operator": "thinkpad",
+    "samples_per_point": 500,
+    "timestamp": "191015_111505",
+    "type": "phantom",
+    "version": "0.1.1"
+}

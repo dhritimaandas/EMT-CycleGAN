@@ -1,0 +1,9 @@
+{
+    "version": "0.1.0",
+    "timestamp": "190909_160819",
+    "operator": "hjkrumb",
+    "type": "phantom",
+    "description": "A3R",
+    "samples_per_point": 500,
+    "environment": "laboratory"
+}
